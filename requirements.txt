@@ -1,0 +1,16 @@
+# Core Libraries
+scikit-learn  # Essential for machine learning models (training, evaluation, and feature processing)
+pandas  # Powerful data manipulation and analysis library
+numpy  # Provides numerical computing tools, especially for handling large datasets
+
+# Visualization Libraries
+matplotlib  # Used for creating static, animated, and interactive visualizations
+seaborn  # Statistical data visualization library built on Matplotlib for enhanced plots
+
+# Additional Machine Learning Tools
+xgboost  # High-performance gradient boosting library (optional, but useful for better predictive models)
+lightgbm  # Efficient gradient boosting framework, faster than XGBoost for large datasets
+
+# Scientific Computing & Model Persistence
+scipy  # Provides scientific computing functions, including optimization and statistics
+joblib  # Useful for saving and loading trained machine learning models efficiently
